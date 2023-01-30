@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ennock
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 I’m interested in Android Development 
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on Android Develoment.
 - 📫 How to reach me on waswaenock878@gmail.com
 
 <!---
