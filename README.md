@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ennock
+- 👋 Hi, I’m @Wilberforce
 - 👀 I’m interested in Data Science & Machine Learning.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data Science projects.
